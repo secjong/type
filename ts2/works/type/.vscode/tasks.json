@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "command": "tsc", //typescipt 명령어 사용 가능
+    "showOutput": "silent",
+    "isShellCommand": true,
+    "problemMatcher": "$tsc" //에러발생서 위치를 알려주고 ctrl + shift + m 으로 바로가기 가능
+}

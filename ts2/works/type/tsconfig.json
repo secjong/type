@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "module": "commonjs",
-        "sourceMap": true
+        "out": "js/script.js", //컴파일한 js파일 저장경로
+        "watch": true //수정후 저장시 자동으로 js 컴파일해줌
     }
 }
